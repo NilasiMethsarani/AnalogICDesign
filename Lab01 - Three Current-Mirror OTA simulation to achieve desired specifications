@@ -1,1 +1,27 @@
 
+# EN4430 Analog IC Design - Assignment 01
+
+This repository contains the design, analysis, and simulation files for Assignment 01 of the EN4430 Analog IC Design module, focusing on single-stage and two-stage Operational Transconductance Amplifiers (OTAs) using 45 nm CMOS technology.
+
+## Project Overview
+
+The project involves the design and simulation of:
+- **Single-Stage OTA**: A differential amplifier with a current mirror biasing scheme and active load.
+- **Two-Stage OTA**: A three current-mirror OTA with self-biased loads for enhanced gain and output swing.
+
+Key tasks include:
+- Device sizing calculations based on performance specifications (e.g., DC gain ≥ 40 dB, unity gain frequency ≥ 20 MHz, slew rate > 10 V/μs).
+- Transient and AC analysis for open-loop and closed-loop configurations.
+- Comparison of simulation results against design specifications.
+
+### Performance Specifications
+- **Technology**: 45 nm CMOS
+- **Supply Voltage**: 1 V
+- **Output Load Capacitance**: 2 pF
+- **DC Gain**: ≥ 40 dB
+- **Unity Gain Frequency**: ≥ 20 MHz
+- **Phase Margin**: > 45°
+- **Slew Rate**: > 10 V/μs
+- **Power Consumption**: ≤ 1000 μW
+
+## Repository Structure
