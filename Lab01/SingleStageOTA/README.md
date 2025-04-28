@@ -11,7 +11,7 @@ The following images, located in the `images/SingleStage/` directory, illustrate
 - `ClosedLoopOTA.png`: Testbench for **closed-loop configuration** with unity gain feedback.
 - `TransientResponse(OpenLoop).png`: **Transient response** plot for open-loop case, used to calculate **slew rate**.
 - `TransientResponse(ClosedLoop).png`: **Transient response** plot for closed-loop case, showing **slew rate performance**.
-- `ACResponse.png`: **AC response** plot for open-loop configuration, displaying **gain, unity gain frequency, and phase margin**.
+- `ACResponseOpenloop.png`: **AC response** plot for open-loop configuration, displaying **gain, unity gain frequency, and phase margin**.
 - `ACResponseClosedloop.png`: **AC response** plot for closed-loop configuration.
 
 ## Design Overview
